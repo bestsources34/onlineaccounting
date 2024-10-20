@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://bestsources34.github.io/sitemap.xml
